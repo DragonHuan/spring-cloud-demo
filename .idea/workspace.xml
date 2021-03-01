@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c675da5-9604-40d9-82ba-bd5df4bcc6da" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/eureka/eureka-client/eureka-client.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka/eureka-consumer/eureka-consumer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka/eureka-server-peer/eureka-server-peer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka/eureka-server-peer2/eureka-server-peer2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka/eureka-server/eureka-server.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+</project>
